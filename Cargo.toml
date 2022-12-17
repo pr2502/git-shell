@@ -1,0 +1,7 @@
+[package]
+name = "git-shell"
+version = "0.2.3"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.66"
